@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".find_page_pwd">
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:text="비밀번호 찾기"
+        android:textSize="50dp"
+        android:translationX="70dp" />
+
+    <EditText
+        android:id="@+id/idfind_by_email_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="아이디"
+        android:inputType="textPersonName"
+        android:translationX="70dp"
+        android:translationY="200dp" />
+
+    <Button
+        android:id="@+id/find_back_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="뒤로가기"
+        android:translationX="70dp"
+        android:translationY="350dp" />
+
+    <Button
+        android:id="@+id/submit_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="찾기"
+        android:translationX="200dp"
+        android:translationY="350dp" />
+</RelativeLayout>

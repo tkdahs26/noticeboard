@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".write_page">
+
+    <EditText
+        android:id="@+id/write_content_edit"
+        android:layout_width="295dp"
+        android:layout_height="123dp"
+        android:ems="10"
+        android:gravity="top|left"
+        android:hint="내용"
+        android:inputType="textMultiLine"
+        android:lines="20"
+        android:scrollbars="vertical"
+        android:translationX="50dp"
+        android:translationY="200dp"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="77dp" />
+
+    <EditText
+        android:id="@+id/write_title_edit"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="제목"
+        android:inputType="textPersonName"
+        android:translationX="50dp"
+        android:translationY="100dp" />
+
+    <Button
+        android:id="@+id/write_back_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="뒤로가기"
+        android:translationX="40dp"
+        android:translationY="400dp" />
+
+    <Button
+        android:id="@+id/write_submit_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="글쓰기"
+        android:translationX="250dp"
+        android:translationY="400dp" />
+</RelativeLayout>
