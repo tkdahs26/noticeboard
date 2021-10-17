@@ -16,7 +16,7 @@ php android,mysql(xampp이용)
 
 <img src="https://user-images.githubusercontent.com/48806275/136689397-5c7c5d94-9085-44c9-8599-aa4f4dbfd2f3.png " width="76%" height="76%"/>글쓰기
 
-<img src="https://user-images.githubusercontent.com/48806275/136689398-407b643a-4cd2-4058-a6c8-690fd34dd1e0.png " width="76%" height="76%"/>메인화면
+<img src="https://user-images.githubusercontent.com/48806275/136689398-407b643a-4cd2-4058-a6c8-690fd34dd1e0.png " width="76%" height="76%"/>글추가 메인화면
 
 <img src="https://user-images.githubusercontent.com/48806275/136689399-5a25ae09-f7aa-4f08-b356-c3382c142b41.png " width="76%" height="76%"/>글선택
 
