@@ -1,6 +1,6 @@
 # noticeboard
 게시판앱 네번째 개인프로젝트
-
+php android,mysql(xampp이용) 
 <img src="https://user-images.githubusercontent.com/48806275/136688339-0e3da819-d7b4-48a4-9233-d20f3bd3078f.png " width="76%" height="76%"/>첫화면: 
 
 <img src="https://user-images.githubusercontent.com/48806275/136689386-b1016905-e318-4aa6-a3b9-7fda07d4af28.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/136689387-5fffd5c7-ae59-4d45-90c7-41bbfe628930.png " width="20%" height="20%"/>아이디찾기
