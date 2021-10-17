@@ -1,11 +1,7 @@
 # noticeboard
 <img src="https://user-images.githubusercontent.com/48806275/136688339-0e3da819-d7b4-48a4-9233-d20f3bd3078f.png " width="76%" height="76%"/>첫화면: 
 
-<img src="https://user-images.githubusercontent.com/48806275/136689385-2a69d003-0663-4799-9bbf-4638afe47e95.png " width="76%" height="76%"/> 
-
-<img src="https://user-images.githubusercontent.com/48806275/136689386-b1016905-e318-4aa6-a3b9-7fda07d4af28.png " width="20%" height="20%"/>
-
-<img src="https://user-images.githubusercontent.com/48806275/136689387-5fffd5c7-ae59-4d45-90c7-41bbfe628930.png " width="20%" height="20%"/>
+<img src="https://user-images.githubusercontent.com/48806275/136689386-b1016905-e318-4aa6-a3b9-7fda07d4af28.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/136689387-5fffd5c7-ae59-4d45-90c7-41bbfe628930.png " width="20%" height="20%"/>
 
 <img src="https://user-images.githubusercontent.com/48806275/136689827-9e24b5f1-b429-4d88-9e4b-7579b2c3bdda.png " width="20%" height="20%"/>
 
