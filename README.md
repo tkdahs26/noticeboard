@@ -1,7 +1,7 @@
 # noticeboard
 게시판앱 네번째 개인프로젝트
 
-php android,mysql(xampp이용) 
+사용기술: php android,mysql(xampp이용) 
 
 <img src="https://user-images.githubusercontent.com/48806275/136688339-0e3da819-d7b4-48a4-9233-d20f3bd3078f.png " width="76%" height="76%"/>로그인화면: 
 
