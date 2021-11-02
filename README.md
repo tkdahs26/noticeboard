@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/48806275/139759077-726cc738-ca86-4cd3-9f66-f59995a1389b.jpg" width="20%" height="20%"/>비밀번호찾기
 
-<img src="(https://user-images.githubusercontent.com/48806275/139759079-5620187f-e886-46ae-ac0c-d23cff0f767b.jpg " width="20%" height="20%"/>
+<img src="(https://user-images.githubusercontent.com/48806275/139770493-aadf2339-a954-4f23-b03d-a0e4eb6904d0.jpg " width="20%" height="20%"/>
 
 <img src="https://user-images.githubusercontent.com/48806275/139759082-4a802c8b-a41d-4ecc-b2fe-f2d9a3536580.jpg" width="20%" height="20%"/>회원가입
 
