@@ -22,8 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/48806275/139759060-1fb989a4-e353-445e-84a5-51a77cec3e23.png " width="50%" height="50%"/>DB
 
-<img src="https://user-images.githubusercontent.com/48806275/139759061-628532ad-aad2-41b5-bc7c-0ceb3150bc74.jpg " width="20%" height="20%"/>
-<img src="https://user-images.githubusercontent.com/48806275/139759062-eaa74c8f-fe4f-43b4-ae80-f4069f813abb.jpg " width="20%" height="20%"/>글수정
+<img src="https://user-images.githubusercontent.com/48806275/139759061-628532ad-aad2-41b5-bc7c-0ceb3150bc74.jpg " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/139759062-eaa74c8f-fe4f-43b4-ae80-f4069f813abb.jpg " width="20%" height="20%"/>글수정
 
 <img src="https://user-images.githubusercontent.com/48806275/139759065-152a6e8a-6e78-45d3-9da7-e5af7c5962f8.png" width="50%" height="50%"/>DB
 
