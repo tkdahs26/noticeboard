@@ -4,7 +4,7 @@
 
 사용기술 android php DB
 
-서버는 닷홈사이트에서 만들었습니다
+DB서버는 닷홈사이트에서 만들었습니다
 
 
 <img src="https://user-images.githubusercontent.com/48806275/139759072-ed3f2840-2f70-4cef-ad9d-deb3c5b85932.jpg " width="20%" height="20%"/> 첫화면
