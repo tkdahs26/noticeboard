@@ -1,6 +1,6 @@
 # noticeboard
 
-네번째 개인프로젝트 "게시판앱"
+네번째 개인프로젝트 "게시판앱"입니다
 
 사용기술 android php DB
 
