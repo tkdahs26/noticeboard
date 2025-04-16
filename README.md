@@ -26,7 +26,7 @@ DB서버는 닷홈사이트
 
 <img src="https://user-images.githubusercontent.com/48806275/139759065-152a6e8a-6e78-45d3-9da7-e5af7c5962f8.png" width="50%" height="50%"/> 확인버튼누르면 db가 수정됨
 
-<img src="https://user-images.githubusercontent.com/48806275/139759066-e7b812d1-c083-49e8-b392-fe2883fcb32a.jpg" width="20%" height="20%"/>글삭제
+<img src="https://user-images.githubusercontent.com/48806275/139759066-e7b812d1-c083-49e8-b392-fe2883fcb32a.jpg" width="20%" height="20%"/>글삭제 누르면 db에서삭제됨
 
 <img src="https://user-images.githubusercontent.com/48806275/139759069-2d7af086-07e0-40ed-9189-994bce896129.png" width="50%" height="50%"/>
 
