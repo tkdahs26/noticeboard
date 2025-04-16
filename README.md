@@ -13,7 +13,7 @@ DB서버는 닷홈사이트
 
 <img src="https://user-images.githubusercontent.com/48806275/139759076-16d9b107-8746-4960-a05e-c6e73416af83.jpg" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/139759077-726cc738-ca86-4cd3-9f66-f59995a1389b.jpg" width="20%" height="20%"/>php 이용하여 비밀번호찾기
 
-<img src="https://user-images.githubusercontent.com/48806275/139770493-aadf2339-a954-4f23-b03d-a0e4eb6904d0.jpg " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/139759082-4a802c8b-a41d-4ecc-b2fe-f2d9a3536580.jpg" width="20%" height="20%"/>회원가입
+<img src="https://user-images.githubusercontent.com/48806275/139770493-aadf2339-a954-4f23-b03d-a0e4eb6904d0.jpg " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/139759082-4a802c8b-a41d-4ecc-b2fe-f2d9a3536580.jpg" width="20%" height="20%"/>회원가입 db저장
 <img src="https://user-images.githubusercontent.com/48806275/139770022-85bb8fc9-49c6-4971-90ac-d96f00f83cf5.png" width="50%" height="50%"/>
 
 <img src="https://user-images.githubusercontent.com/48806275/139759056-faef3c0a-1bfc-463c-aae6-cdbb65085fcc.jpg " width="20%" height="20%"/>게시판홈
