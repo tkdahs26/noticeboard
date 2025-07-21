@@ -2,7 +2,7 @@
 
 네번째 개인어플만들기 "게시판앱"입니다
 
-사용기술 android php mysql
+사용기술 android java php mysql
 
 DB서버는 닷홈사이트 
 
