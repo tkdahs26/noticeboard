@@ -10,7 +10,7 @@ $sql2 = "SELECT * FROM joindb WHERE joinemail='{$_POST['idfind_by_email_php']}'"
             'joinemail'=>$row[3]
     );
     }
-             
+            
             
     header('Content-Type: application/json; charset=utf8');
     $json = json_encode(array("result"=>$data), JSON_PRETTY_PRINT+JSON_UNESCAPED_UNICODE);

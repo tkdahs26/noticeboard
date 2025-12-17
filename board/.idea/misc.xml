@@ -1,0 +1,48 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/board/app/src/main/res/layout/activity_find_class.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/board/app/src/main/res/layout/activity_find_page.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/board/app/src/main/res/layout/activity_find_page_id.xml" value="0.2125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/board/app/src/main/res/layout/activity_find_page_pwd.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/board/app/src/main/res/layout/activity_first_page.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/board/app/src/main/res/layout/activity_homepage.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/board/app/src/main/res/layout/activity_main.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/board/app/src/main/res/layout/activity_registerclass.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/board/app/src/main/res/layout/activity_writepage.xml" value="0.2265625" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/drawable/border_text.xml" value="0.1890625" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/drawable/border_text2.xml" value="0.1890625" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/_1_0activity_first_page.xml" value="0.2341485507246377" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/_1_1activity_registerclass.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/_1_2activity_find_page_id.xml" value="0.2341485507246377" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/_1_3activity_find_page_pwd.xml" value="0.2341485507246377" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/_2_0activity_homepage.xml" value="0.25" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/_2_1activity_writepage.xml" value="0.2341485507246377" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/_3_0activity_content_page.xml" value="0.22" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/_3_1activity_passwordcheck_page_del.xml" value="0.2341485507246377" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/_3_2activity_passwordcheck_page_fix.xml" value="0.2341485507246377" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/_3_3activity_fixcontent_page.xml" value="0.2341485507246377" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/activity_content_page.xml" value="0.23822463768115942" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/activity_find_page_id.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/activity_find_page_pwd.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/activity_first_page.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/activity_fixcontent_page.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/activity_homepage.xml" value="0.22" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/activity_passwordcheck_page.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/activity_passwordcheck_page_del.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/activity_passwordcheck_page_fix.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/activity_registerclass.xml" value="0.25" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/activity_writepage.xml" value="0.22" />
+        <entry key="..\:/Users/tidah/AndroidStudioProjects/board/app/src/main/res/layout/border1.xml" value="0.17291666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -11,7 +11,7 @@ $sql2 = "SELECT * FROM writedb WHERE title_db='{$_POST['title_php']}'";
         $data = array('index'=>$row[0],
             'title'=>$row[1],
             'content'=>$row[2],
-            'writer'=>$row[3] 
+            'writer'=>$row[3]
     );
     }
             

@@ -1,0 +1,31 @@
+
+buildscript {
+    ext.kotlin_version = "1.8.0" //1.5.0 이게문제였음
+    ext {
+        agp_version = '8.8.0'
+        agp_version1 = '8.9.0'
+    }
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:$agp_version1"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+/* setting.gradle 에 이미있어서 주석처리함
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+*/
+tasks.register('clean', Delete) {
+    delete rootProject.buildDir
+}
