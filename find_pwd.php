@@ -28,12 +28,12 @@ while($row=mysqli_fetch_array($query1)){
             'joinid'=>$row[1],
             'joinpassword'=>$row[2],
             'joinname'=>$row[3]
-        ));  //이차원배열때문에 json 결과값다수일때
+        )); 
 */
 
 
 
-   // echo "<pre>"; print_r($data); echo '</pre>';
+
 
     header('Content-Type: application/json; charset=utf8');
     $json = json_encode(array("result"=>$data), JSON_PRETTY_PRINT+JSON_UNESCAPED_UNICODE);

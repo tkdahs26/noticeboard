@@ -8,12 +8,7 @@ $connect=mysqli_connect("localhost","tidahk","wiatnpfa*8","tidahk");
 $sql1 = "SELECT * FROM writedb";
 $query1=mysqli_query($connect,$sql1);
 
-/*
-$sql2 = "SELECT * FROM joindb";
-$query2=mysqli_query($connect,$sql2);
-$row2=mysqli_fetch_array($query1);
- var_dump()
-*/
+
 $data=array();
 while($row=mysqli_fetch_array($query1)){
     array_push($data,array('index'=>$row[0],

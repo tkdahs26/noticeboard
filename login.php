@@ -10,7 +10,7 @@ $query1=mysqli_query($connect,$sql1);
 
 
 
-//reponse에서 출력하려면 echo 지워야됨@@@@@@@@@@@@@@@@
+ 
 $row=mysqli_fetch_array($query1);
 
 if($row[1]==null){
